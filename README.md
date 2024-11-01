@@ -2,8 +2,8 @@
 - 👀 I’m interested in learning how to make videogames and programming in general
 - 🌱 I’m currently learning python, althouhg I am just at the beginning
 - 💞️ I’m looking to collaborate on projectas that make my imagination fly
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 
+- 😄 
 - ⚡ Fun fact: ...
 
 <!---
